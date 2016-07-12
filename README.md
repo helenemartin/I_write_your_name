@@ -84,5 +84,5 @@ To name you
 Liberty.
 
 &nbsp;
- 
+Adapted from
 Paul Éluard (Recueils Clandestins, 1943).
