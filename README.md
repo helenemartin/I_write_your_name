@@ -10,7 +10,7 @@ I write your name.
 
 &nbsp;
 
-On every pages I browse  
+On every page I browse  
 
 On the scripts I compose
 
@@ -55,7 +55,7 @@ On restricted access
 
 On the passwords I encrypt  
 
-On every changes I commit  
+On every change I commit  
 
 I write your name.
 
