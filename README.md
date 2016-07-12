@@ -2,7 +2,7 @@
 
 On rasterized layers  
 
-On the meshes of a Perlin terrain 
+On the Meshes of the Afternoon 
 
 On the sheen of my screen 
 
@@ -21,7 +21,7 @@ I write your name.
 &nbsp;
 
  
-On "float:" over the bridge, "left"
+On "float:left" over the bridge
 
 On "text-align:center"'s neutrality  
 
