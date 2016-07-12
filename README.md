@@ -85,5 +85,4 @@ Liberty.
 &nbsp;
 &nbsp;
 &nbsp;
-Adapted from
-Paul Éluard (Recueils Clandestins, 1943).
+Adapted from Paul Éluard's poem (Recueils Clandestins, 1943).
