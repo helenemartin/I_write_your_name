@@ -14,7 +14,7 @@ On every pages I browse
 
 On the scripts I compose
 
-On Sublime text's text
+On Sublime Text's text
 
 I write your name.
 
@@ -41,7 +41,7 @@ I write your name.
 
 &nbsp;
 
-On immutable class system  
+On invariable class system  
 
 On variables and empty arrays  
 
