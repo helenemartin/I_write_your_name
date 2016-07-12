@@ -21,7 +21,7 @@ I write your name.
 &nbsp;
 
  
-On "float:" over the bridge "left"
+On "float:" over the bridge, "left"
 
 On "text-align:center"'s neutrality  
 
