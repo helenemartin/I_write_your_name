@@ -41,7 +41,7 @@ I write your name.
 
 &nbsp;
 
-On invariable class system  
+On invariable classes 
 
 On variables and empty arrays  
 
