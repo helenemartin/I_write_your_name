@@ -71,7 +71,7 @@ I write your name.
 
 &nbsp;
  
-And by the power of one word  
+And by the power of a word  
 
 I start my life over  
 
